@@ -3,7 +3,7 @@ ADB Cleaning for Android. Uninstalls bloatware &amp; trackers via ADB.
 
 !🛑READ BEFORE CONTINUING🛑!
 
-The below code WILL uninstall some necessary features of your phone. You will NEED to have an alternative Keyboard installed. If you use your current Google one, it will be REMOVED ! I am not responsible for any damage you do to your phone.
+The below code WILL uninstall some necessary features of your phone. You will NEED to have an alternative Keyboard installed. If you use your current Google one, it will be REMOVED ! I am not responsible for any damage you do to your phone. I can recommend AnySoftKeyboard or OpenKeyboard from F-Droid.
 
 ====
 
